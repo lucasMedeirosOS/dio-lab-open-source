@@ -57,4 +57,4 @@ Estou em busca constante de aprendizado para me tornar um desenvolvedor Fullstac
 | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5521991812591) | [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/channels/@lucasmedeirosvf/) | [![Telegram](https://img.shields.io/badge/Telegram-000?style=for-the-badge&logo=telegram&logoColor=2CA5E0)](https://t.me/LucasMedeirosOS) |
 |---|---|---|
 
-Siga-me para saber mais sobre meus projetos e artigos. Estou sempre em busca de novas oportunidades e desafios. Vamos juntos nessa jornada de aprendizado e crescimento!
+Siga-me para saber mais sobre meus projetos e artigos. Estou sempre em busca de novas oportunidades e desafios. Vamos juntos nessa jornada de aprendizado e crescimento!.
